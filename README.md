@@ -2,7 +2,7 @@ Bio:
 
 
 🚀 Enthusiastic college student fueled by a passion for coding and technology! 💻<br>
-🎓 Currently pursuing BCA(Bachelor in COmputer Application) at Lovely Professional University.<br>
+🎓 Currently pursuing BCA(Bachelor in Computer Application) at Lovely Professional University.<br>
 🔍 Always exploring new languages, frameworks, and technologies to expand my skill set.<br>
 🌟 Dedicated to continuous learning and growth in the world of software development.<br>
 🔧 Love collaborating on projects and solving problems through elegant code.<br>
