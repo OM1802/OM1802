@@ -42,8 +42,6 @@ Currently learning System Design, Distributed Systems, and Machine Learning.
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
@@ -127,14 +125,6 @@ Currently learning System Design, Distributed Systems, and Machine Learning.
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛠️ IT Service Management (ITSM) Portal
-- 🎫 Customer Support Ticketing System
-- 🔗 URL Shortener (System Design Project)
-- 🤖 AI-powered MERN Applications
-
----
 
 ## 📫 Let's Connect
 
