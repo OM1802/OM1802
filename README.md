@@ -18,7 +18,6 @@ Currently learning System Design, Distributed Systems, and Machine Learning.
 - 🌱 Currently learning **System Design, Redis, Docker, Kubernetes & AWS**
 - 🔭 Working on **Full Stack MERN Projects**
 - 📚 Solving **Data Structures & Algorithms** regularly
-- 🎯 Goal: Become a **Software Engineer / AI Engineer**
 - ⚡ Fun fact: I enjoy designing scalable backend architectures more than building UIs.
 
 ---
@@ -119,11 +118,6 @@ Currently learning System Design, Distributed Systems, and Machine Learning.
 
 ---
 
-## 📈 Contribution Graph
-
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OM1802&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 
 ## 📫 Let's Connect
